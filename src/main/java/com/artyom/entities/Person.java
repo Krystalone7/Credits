@@ -9,4 +9,5 @@ import javax.persistence.Entity;
 @Setter
 @Entity
 public class Person {
+
 }
